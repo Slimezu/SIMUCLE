@@ -31,3 +31,4 @@ pip install numpy, matplotlib, json, re, tkinter, dataclasses, typing, urllib, r
 
 ### Locate dist folder and open *SIMUCLE.exe*
 
+![exe](https://github.com/user-attachments/assets/2197b083-e463-4c07-9a3d-18b456e7f6f3)
