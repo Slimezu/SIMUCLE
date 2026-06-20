@@ -6,8 +6,6 @@
 
 Build custom atoms and ions, explore real chemical compounds (powered by live PubChem data), and run fusion experiments in a virtual accelerator. Perfect for learning nuclear physics, chemistry, or just having fun smashing particles together.
 
-![Demo](https://via.placeholder.com/800x400/1e3a8a/60a5fa?text=SIMUCLE+Screenshot+(add+one+later))  
-*(Add a screenshot of the running GUI here)*
 
 ## ✨ Features
 
@@ -26,3 +24,7 @@ Build custom atoms and ions, explore real chemical compounds (powered by live Pu
 ```bash
 pip install numpy, matplotlib, json, re, tkinter, dataclasses, typing, urllib, requests
 ```
+
+### Download .zip file
+
+![download](download)
