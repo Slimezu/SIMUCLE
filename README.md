@@ -15,7 +15,6 @@ Build custom atoms and ions, explore real chemical compounds (powered by live Pu
 - **Particle Accelerator Simulator** — Choose projectiles, targets, beam energy, and states of matter
 - **Fusion Engine** — Realistic collision outcomes, new element discovery, and reaction logging
 - **Visualizations** — 3D plots, shell diagrams, and summary charts
-- **Standalone Executable** — Built with PyInstaller (Windows ready)
 
 ## 🚀 Quick Start
 
@@ -29,8 +28,6 @@ pip install numpy, matplotlib, json, re, tkinter, dataclasses, typing, urllib, r
 
 ![download](https://github.com/user-attachments/assets/228e3d8a-abae-4fdf-8658-816513288315)
 
-### Locate dist folder and open *SIMUCLE.exe*
+### Open viewer.py
 
-![exe](https://github.com/user-attachments/assets/2197b083-e463-4c07-9a3d-18b456e7f6f3)
-
-#### Unfortunately the .exe file is DEPRECATED as of now please use viewer.py
+![file](https://github.com/user-attachments/assets/5f7621b8-3e90-44ba-bf16-654b3a6cb100)
